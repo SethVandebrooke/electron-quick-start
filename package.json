@@ -20,11 +20,7 @@
   },
   "repository": "https://github.com/sethvandebrooke/electron-quick-start",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Electron App"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
