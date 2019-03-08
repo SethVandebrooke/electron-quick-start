@@ -1,16 +1,24 @@
 {
   "name": "lowerCaseProductName",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "appDescription",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "build --dir",
+    "build-mac": "build -m",
+    "build-win": "build -w",
+    "build-lin": "build -l",
+    "build": "npm run build-win",
+    "clean": "rm -rf node_modules",
+    "reinstall": "npm run clean && npm install", 
+    "rebuild": "npm run clean && npm install && npm run build"
   },
   "build": {
     "appId": "customAppId",
     "productName": "customProductName"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/sethvandebrooke/electron-quick-start",
   "keywords": [
     "Electron",
     "quick",
