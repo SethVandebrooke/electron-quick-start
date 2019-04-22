@@ -29,7 +29,7 @@ npm start
 # package the app for building
 npm run pack
 # build the app and installer (default platform is windows, change default in package.json)
-npm run build-mac
+npm run build
 
 # build the app and installer for windows
 npm run build-win
