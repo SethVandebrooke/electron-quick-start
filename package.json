@@ -16,7 +16,11 @@
   },
   "build": {
     "appId": "customAppId",
-    "productName": "customProductName"
+    "productName": "customProductName",
+    "nsis": {
+        "oneClick": false,
+        "runAfterFinish": true
+    }
   },
   "repository": "https://github.com/sethvandebrooke/electron-quick-start",
   "keywords": [
