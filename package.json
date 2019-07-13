@@ -19,7 +19,8 @@
     "productName": "customProductName",
     "nsis": {
         "oneClick": false,
-        "runAfterFinish": true
+        "runAfterFinish": true,
+        "allowToChangeInstallationDirectory":true
     }
   },
   "repository": "https://github.com/sethvandebrooke/electron-quick-start",
