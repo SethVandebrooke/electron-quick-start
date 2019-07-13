@@ -22,4 +22,4 @@ Your use of this software constitutes your acknowledgement
 and acceptance of these conditions.
 
 -----------------------------------------------------------
-Copyright (c) year, <Author> LLC. All Rights Reserved.
+Copyright (c) year, <Author>. All Rights Reserved.
