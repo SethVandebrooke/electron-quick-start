@@ -1,0 +1,25 @@
+-----------------------------------------------------------
+LICENSE AND COPYRIGHT
+-----------------------------------------------------------
+Your use of this software is governed by the following 
+conditions. Please read this before you install the program. 
+By using this software you are agreeing to the following 
+conditions:
+
+This software is copyrighted and may not be modified or 
+included with another product without the express, written 
+permission of <Author>. You may not decompile, 
+disassemble or otherwise reverse engineer this product. 
+Your use of this software is at your own risk. <Author> 
+shall not be held liable for consequential, special, 
+indirect or other similar damages or claims, including loss 
+of profits or any other commercial damages. <Author>  
+specifically disclaims all other warranties, expressed or 
+implied, including but not limited to implied warranties of 
+merchantibility and fitness to a particular purpose.
+
+Your use of this software constitutes your acknowledgement 
+and acceptance of these conditions.
+
+-----------------------------------------------------------
+Copyright (c) year, <Author> LLC. All Rights Reserved.
