@@ -46,9 +46,15 @@ npm run reinstall
 npm run rebuild
 ```
 
-## Application configurations
+## Application Configurations
 - Update your icon by replacing icon.ico in the build dir (note: the icon should be icon.icns for mac)
 - Update your application information by changing the appId, productName, and general package information (name, version, description etc...) in the package.json file.
+
+## Installer Configurations
+By default, the build process is set up to create a NSIS installer using the icon and license files in the build directory.
+NOTE: the installer will create a desktop shortcut by default.
+You can add and change installer configuration options in the package.json file.
+For information on installer options checkout the: [Electron Builder NSIS Docs](https://www.electron.build/configuration/nsis)
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
